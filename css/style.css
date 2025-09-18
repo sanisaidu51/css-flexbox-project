@@ -60,7 +60,17 @@ a:hover {
 .box2 div{
     display: flex;
     flex-direction: column;
-    line-height: 1.8;
+}
+.box2 h1{
+    padding-top: 15px;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.box2 p{
+    padding-top: 15px;
+    line-height: 1.6;
 }
 img{
    width: 400px;
@@ -113,6 +123,7 @@ img{
         flex-grow: 1;
     }
 }
+
 
 
 
