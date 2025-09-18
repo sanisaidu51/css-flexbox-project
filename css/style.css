@@ -95,7 +95,7 @@ img{
 
 @media screen and (max-width: 768px) {
        #box1{
-    padding: 0 10;
+    padding: 0 0;
 }
  li{
     margin-left: 9px;
@@ -113,3 +113,4 @@ img{
         flex-grow: 1;
     }
 }
+
